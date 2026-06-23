@@ -1,0 +1,3 @@
+-- v6.1 不需要重新建 SQL。
+-- 組間休息 restSec 會存入 workout_records.sets JSONB 欄位。
+-- 如果你已經執行過 v6 的 supabase_schema.sql，這次不用再執行任何 SQL。
